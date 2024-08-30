@@ -1,0 +1,108 @@
+body {
+    margin: 0px;
+}
+
+.More {
+    padding: 15px;
+    background-color: white;
+    border-style: solid;
+    padding: 8px;
+    color: rgb(41, 118, 211);
+    border-color: rgb(41, 118, 211);
+    border-radius: 43%;
+    border-width: 3px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    height: 100px;
+    width: 125px;
+    font-size: 35px;
+}
+
+.More:hover {
+    background-color: rgb(41, 118, 211);
+    color: white;
+}
+
+.Top {
+    color: rgb(41, 118, 211);
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    height: 78px;
+    width: 100%;
+    border-style: solid;
+    background-color: rgb(41, 118, 211);
+    border: none;
+}
+
+header {
+    margin: 0px;
+}
+
+.intro {
+    border-radius: 15px;
+}
+
+.Home {
+    background-color: rgb(41, 118, 211);
+    border: none;
+    color: white;
+    font-size: 30px;
+    margin-top: 17px;
+    margin-left: 0px;
+    cursor: pointer;
+}
+
+.About {
+    background-color: rgb(41, 118, 211);
+    border: none;
+    color: white;
+    font-size: 30px;
+    margin-top: 16px;
+    margin-left: 1565px;
+    cursor: pointer;
+}
+
+.Home_img {
+    height: 27px;
+    width: 27px;
+    margin-left: 7px;
+    margin-top: 17px;
+    margin-right: 0px;
+    background-color: rgb(41, 118, 211);
+}
+
+.User {
+    height: 35px;
+    width: 35px;
+    margin-left: 30px;
+    margin-top: 17px;
+    margin-right: 0px;
+    background-color: rgb(41, 118, 211);
+}
+
+.Text {
+    margin-left: 25px;
+}
+
+.Go_Top {
+    padding: 15px;
+    background-color: white;
+    border-style: solid;
+    padding: 8px;
+    color: rgb(41, 118, 211);
+    border-color: rgb(41, 118, 211);
+    border-radius: 50%;
+    border-width: 3px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+    height: 90px;
+    width: 90px;
+    font-size: 25px;
+    margin-left: 1800px;
+}
+
+.Go_Top:hover {
+    background-color: rgb(41, 118, 211);
+    color: white;
+}
